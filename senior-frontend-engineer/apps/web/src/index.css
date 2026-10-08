@@ -1,0 +1,4 @@
+@import 'tailwindcss';
+
+/* Workspace packages sit outside this app, so Tailwind must be told to scan them. */
+@source '../../../packages';
